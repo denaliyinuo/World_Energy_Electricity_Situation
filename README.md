@@ -6,7 +6,6 @@
 
 ![image 4](/images/image4.png)
 
-![image 5](/images/image5.png)
+![image 5](/images/image5.jpeg)
 
-![image 6](/images/image6.png)
-
+![image 6](/images/image6.jpeg)
