@@ -4,7 +4,7 @@ Overview
 
 It is readily apparent that the world needs to rapidly transition to a zero carbon future in the coming decades, as an increase in droughts and natural disasters has already lead to famines and will lead to ever increasing mass migrations due to regional conflicts over ever scarce food and water resources.  World leaders have been pushing for investments in renewable energy, energy storage, green building technologies, along with a host of other methods to reduce energy consumption. 
 
-![image 14](/images/image14.jpeg)
+![image 15](/images/image15.jpeg)
 
 ![image 8](/images/image8.png)
 
