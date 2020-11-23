@@ -1,6 +1,10 @@
 # World Energy and Electricity Situation and The Transition to a Zero Carbon Future
 
-For the original python code, please [click here to visit my Kaggle notebook](https://www.kaggle.com/nathanoliver/current-status-of-the-world-s-energy), or go to the above m file.
+For the original python code, please [click here to visit my Kaggle notebook](https://www.kaggle.com/nathanoliver/current-status-of-the-world-s-energy), or go to the above m file. All graphs and code were developed by myself.
+
+Data Source
+
+Hannah Ritchie (2014) - "Energy". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/energy' [Online Resource]
 
 # Overview
 
