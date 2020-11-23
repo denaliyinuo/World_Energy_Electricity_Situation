@@ -1,5 +1,7 @@
 # World Energy and Electricity Situation and The Transition to a Zero Carbon Future
 
+For the original python code, please [click here to visit my Kaggle notebook](https://www.kaggle.com/nathanoliver/current-status-of-the-world-s-energy), or go to the above m file.
+
 # Overview
 
 It is readily apparent that the world needs to rapidly transition to a zero-carbon future in the coming decades, as an increase in droughts and natural disasters has already led to famines and will lead to ever increasing mass migrations due to regional conflicts over ever scarce food and water resources.  World leaders have been pushing for investments in renewable energy, energy storage, green building technologies, along with a host of other methods to reduce energy consumption. Below is a simplified version of the transition from the current state of the world's energy generation and consumption to a carbon neutral future. 
